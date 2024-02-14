@@ -23,6 +23,21 @@ LINEのチャンネル作成についてのマニュアルを作成します。
   <img width="50%" src="https://github.com/yutowac/LINE_manual/assets/44987057/7dad0ced-308b-415c-bda9-e258bc6cd98b">
 </div>
 
+## 新規プロバイダーの作成
+開発車名、メールアドレスを入れてプロバイダーを作成します。
+プロバイダー名は「test」など任意の名前で大丈夫です。
+
+
 ここまでで、アカウントの準備とログイン処理は完了です。
 
-## 
+## テストチャンネルへのログイン
+担当者からチャンネル編集者の招待メールを送ります。「受け取ったら招待を承諾する」を押してください。
+<div align="center">
+  <img width="50%" src="https://github.com/yutowac/LINE_manual/assets/44987057/89ad2d89-d18a-469c-ac8d-bcc8fb1b6a27">
+</div>
+
+このような画面になったらOKです！
+<div align="center">
+  <img width="50%" src="https://github.com/yutowac/LINE_manual/assets/44987057/443f6d39-3f39-4ba7-b2bc-a0f701cd9e43)">
+</div>
+
